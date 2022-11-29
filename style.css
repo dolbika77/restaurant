@@ -1,0 +1,97 @@
+body {
+  background-color: #ffffff;
+  width: 100%;
+  height: auto;
+}
+.header {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.design {
+  width: 207px;
+  height: 30px;
+  font-size: 26px;
+  color: #a80000;
+}
+
+li {
+  width: auto;
+  height: 39px;
+  display: inline-block;
+  margin-left: 14px;
+  font-size: 24px;
+}
+.icons {
+  display: inline-block;
+  margin-left: 150px;
+}
+.chef {
+  display: inline-block;
+  margin-top: 150px;
+}
+.steak {
+  display: inline-block;
+  width: 400px;
+  font-size: 70px;
+  color: #a80000;
+}
+.description {
+  margin-top: 23px;
+  width: 300px;
+  height: auto;
+  font-size: 22px;
+}
+.pic {
+  width: 600px;
+  height: 600px;
+  float: right;
+}
+
+p {
+  margin-top: 23px;
+  font-size: 22px;
+}
+input {
+  margin-top: 50px;
+  font-size: 22px;
+}
+.row {
+  margin-top: 60px;
+  margin-left: 60px;
+  width: 387px;
+  height: 1px;
+  background-color: #d9d9d9;
+}
+.addtocart {
+  display: inline-block;
+  /* position: absolute; */
+}
+/* .booking {
+  display: inline-block;
+  margin-left: 300px;
+  margin-top: -400px;
+} */
+h1 {
+  position: absolute;
+  margin-top: -105px;
+  margin-left: 100px;
+  color: black;
+  font-size: 22px;
+  color: white;
+}
+.discount {
+  display: flex;
+  margin-bottom: 54px;
+  margin-right: 40px;
+  width: 400px;
+  height: 95px;
+  border: 1px solid #545454;
+  border-radius: 5px;
+  float: right;
+}
